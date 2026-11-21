@@ -45,3 +45,11 @@
 ## [2026-11-21] slides | 健康心理學論文知識庫綜合導讀
 - 影響檔案：`outputs\slides-html\five-papers-deck-slides.html`
 - 摘要：透過 LangGraph v3 一條龍管線（自動匯入與圖表擷取＋分單元並行）產出 20 頁日式可愛粉彩單檔 HTML 簡報。
+
+## [2026-11-21] slides | Chapter 11: 疼痛的本質與症狀
+- 影響檔案：`outputs\slides-html\ch11-demo-run-slides.html`
+- 摘要：透過 LangGraph v3 一條龍管線（自動匯入與圖表擷取＋分單元並行）產出 20 頁日式可愛粉彩單檔 HTML 簡報。
+
+## [2026-11-22] slides | 嚴重與失能的長期疾病
+- 影響檔案：`outputs\slides-html\new-topic-slides.html`
+- 摘要：透過 LangGraph v3 一條龍管線（自動匯入與圖表擷取＋分單元並行）產出 20 頁日式可愛粉彩單檔 HTML 簡報。
