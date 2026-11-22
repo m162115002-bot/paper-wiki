@@ -53,3 +53,7 @@
 ## [2026-11-22] slides | 嚴重與失能的長期疾病
 - 影響檔案：`outputs\slides-html\new-topic-slides.html`
 - 摘要：透過 LangGraph v3 一條龍管線（自動匯入與圖表擷取＋分單元並行）產出 20 頁日式可愛粉彩單檔 HTML 簡報。
+
+## [2026-11-22] slides | 醫院設定、過程與對病患的效果
+- 影響檔案：`outputs\slides-html\new-topic-slides.html`
+- 摘要：透過 LangGraph v3 一條龍管線（自動匯入與圖表擷取＋分單元並行）產出 31 頁日式可愛粉彩單檔 HTML 簡報。
